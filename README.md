@@ -2,7 +2,7 @@
 MultiThreaded Server is a simple mini multithreaded server practise Project 
  which is built in java that can handle multiple clients simultaneously.
 
-#Concept
+# Concept
 This project is a simple multithreaded server that can handle multiple clients simultaneously. 
 It is built in Java and demonstrates the use of threads to manage client connections.
 It uses sockets to communicate with clients and can handle multiple requests at the same time.
